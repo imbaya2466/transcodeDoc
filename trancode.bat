@@ -1,0 +1,1 @@
+python C:\Users\yaoayang\Desktop\translate\google.py %*
